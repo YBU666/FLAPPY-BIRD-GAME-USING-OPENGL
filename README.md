@@ -19,6 +19,13 @@ A modern implementation of the classic Flappy Bird game using OpenGL and C++. Th
 - C++ Compiler (g++ recommended)
 - Make (for building)
 
+## Screenshots
+![](https://github.com/YBU666/FLAPPY-BIRD-GAME-USING-OPENGL/blob/main/main_menu.png?raw=true)
+![](https://github.com/YBU666/FLAPPY-BIRD-GAME-USING-OPENGL/blob/main/instruction_menu.png?raw=true)
+![](https://github.com/YBU666/FLAPPY-BIRD-GAME-USING-OPENGL/blob/main/playing.png?raw=true)
+![](https://github.com/YBU666/FLAPPY-BIRD-GAME-USING-OPENGL/blob/main/gameover.png?raw=true)
+
+
 ## Installation
 
 1. Clone the repository:

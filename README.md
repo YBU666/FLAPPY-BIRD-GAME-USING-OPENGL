@@ -15,7 +15,7 @@ A modern implementation of the classic Flappy Bird game using OpenGL and C++. Th
 ## Screenshots
 
 ### Main Menu
-![Main Menu](images/Screenshot%202025-04-18%20at%2010.00.41%20AM.png)
+![Main Menu](images/images/Screenshot 2025-04-18 at 10.00.41 AM.png)
 
 ### Gameplay
 ![Gameplay](images/Screenshot%202025-04-18%20at%2010.00.59%20AM.png)

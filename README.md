@@ -12,20 +12,6 @@ A modern implementation of the classic Flappy Bird game using OpenGL and C++. Th
 - ☁️ Animated background with moving clouds
 - 📱 Responsive controls
 
-## Screenshots
-
-### Main Menu
-![Main Menu](images/images/Screenshot 2025-04-18 at 10.00.41 AM.png)
-
-### Gameplay
-![Gameplay](images/Screenshot%202025-04-18%20at%2010.00.59%20AM.png)
-
-### Game Over Screen
-![Game Over](images/Screenshot%202025-04-18%20at%2010.02.09%20AM.png)
-
-### Celebration Effects
-![Celebration](images/Screenshot%202025-04-18%20at%2010.02.51%20AM.png)
-
 ## Prerequisites
 
 - OpenGL

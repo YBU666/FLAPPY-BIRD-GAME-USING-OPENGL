@@ -14,10 +14,17 @@ A modern implementation of the classic Flappy Bird game using OpenGL and C++. Th
 
 ## Screenshots
 
-To add screenshots of your game, save them in the `images` directory and add them here using:
-```markdown
-![Game Screenshot](images/screenshot1.png)
-```
+### Main Menu
+![Main Menu](images/Screenshot%202025-04-18%20at%2010.00.41%20AM.png)
+
+### Gameplay
+![Gameplay](images/Screenshot%202025-04-18%20at%2010.00.59%20AM.png)
+
+### Game Over Screen
+![Game Over](images/Screenshot%202025-04-18%20at%2010.02.09%20AM.png)
+
+### Celebration Effects
+![Celebration](images/Screenshot%202025-04-18%20at%2010.02.51%20AM.png)
 
 ## Prerequisites
 
